@@ -11,3 +11,4 @@ GACA-C1S1
 RC6User-C1S1
 Whitelisted-GADFA
 Jetray
+Merfel
