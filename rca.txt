@@ -12,3 +12,4 @@ RC6User-C1S1
 Whitelisted-GADFA
 Jetray
 Merfel
+BassRTX4090TI
